@@ -6,11 +6,11 @@ Green Grid Advisor is a startup company that Calvin Li and myself, Nicholas Prak
 
 ## App Teaser
 Below is a short teaser video of the app produced in Kotlin with a more elaborate explanation to our solution. In addition, the worked developed was presented in the Equity Incubator Concept Track Fall 2023 to obtain advice for our idea and for possible startup funding.
-<iframe width="560" height="315" src="https://youtu.be/msakcvZj3DE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/msakcvZj3DE/0.jpg)](https://www.youtube.com/watch?v=msakcvZj3DE)
 
 ## Web Application Version
 After developing a prototype of the app, we reflected upon the various issues we encountered and decided to move forward with a website instead of an Android app. In developing the Android app, we found huge complexity issues some of which we solved, but we decided that a website would be more suitable at the moment for our project and developed an IoT style dashboard using the PERN stack (PostgreSQL, ExpressJS, React, NodeJS). Below is a demo of our prototype website depicting our features and a better visualization of our real-time graphs.
-<iframe width="560" height="315" src="https://youtu.be/SJFBiIzeUgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SJFBiIzeUgo/0.jpg)](https://www.youtube.com/watch?v=SJFBiIzeUgo)
 
 ## Disclaimer
 All materials provided here are not be reused without permission of my team for any reason whatsoever. For further information about our project or access to our source code, please contact me at prakosonj@gmail.com.
